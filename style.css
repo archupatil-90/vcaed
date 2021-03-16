@@ -80,6 +80,7 @@ h1,h2{
     margin: 10px;
     text-transform: uppercase;
     color: #1e2736;
+    font-family: 'Bitter', serif;
 }
 header .bottom{
     width:100%;
@@ -149,6 +150,7 @@ right:-5px;
     p{
         font-size: 13px;
         margin-bottom: 15px;
+        font-family: Arial, Helvetica, sans-serif;
     }
     .mrg-bottom{
         margin-bottom: 30px;
