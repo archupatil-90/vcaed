@@ -77,7 +77,7 @@ img:hover {
 
 }
 h1,h2{
-    margin: 5px;
+    margin: 10px;
     text-transform: uppercase;
     color: #1e2736;
 }
@@ -86,6 +86,7 @@ header .bottom{
     height: 20px;
     display: flex;
     overflow: hidden;
+    margin-top: 20px;
 
 }
 
@@ -135,7 +136,7 @@ right:-5px;
  width:260;
  margin: auto;
         background-color: #1e2736;
-        padding:  20px;
+        padding: 10px 20px;
         text-align: center;
         display: flex;
         justify-content: space-between;
@@ -147,10 +148,10 @@ right:-5px;
   a{text-decoration: none;}
     p{
         font-size: 13px;
-        margin-bottom: 12px;
-    }
-    .p{
         margin-bottom: 15px;
+    }
+    .mrg-bottom{
+        margin-bottom: 30px;
     }
     i{
         font-size: 15px;
